@@ -7,12 +7,12 @@ Create a new HTML file and save it as index.html. Add the following code to your
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="style.css">
-        <title>GeeksterMon-Ronak sharma</title>
+        <title>GeeksterPokemon</title>
     </head>
     <body>
         <div class="content-wrapper">
             <header>
-                <h1>GeeksterMon</h1>
+                <h1>GeeksterPokeMon</h1>
             </header>
             <main>
                 <form id="pokemon-type-filter">
